@@ -1,0 +1,25 @@
+Tell me about Yourself
+
+What they want is 
+Quick review on 
+- Who you are (summary, personality).
+- Why you fit this role.
+- How you connect your journey so far with your next step.
+
+take the flow like:
+- Start with identity + present
+Who you are, your current stage (student, professional, fresher, experienced).
+
+- Highlight relevant past
+2–3 important things (internships, projects, achievements).
+
+- Show direction / future
+Why you’re here, what motivates you, what excites you about the role.
+
+Hello, I’m Amulya. I’m currently pursuing my B.E. in Information Science at R.V. College of Engineering, where I hold a CGPA of 8.7. My journey into technology started after my 10th, when I explored programming and developed a strong interest in coding. That motivated me to pursue a Diploma in Computer Science, where I graduated with a CGPA of 9.9 and ranked 29th in DCET to secure admission into RVCE.
+
+Alongside academics, I’ve gained hands-on experience through two internships—one at Bock where I worked on a cloud-based file management system using ReactJS and Firebase, and another at BSQ Technology, where I contributed to a property selling application using ReactJS, SpringBoot, and MySQL. I’ve also built projects like an AI-powered Health Assistance System and EduSpark, a mentorship hub for students.
+
+Recently, I was honored with a Merit Award in the Enterprise Architecture Competition by The Open Group, and I’ve also actively participated in hackathons and cultural events like dance, both within and outside RVCE.
+
+Overall, I’d describe myself as someone who enjoys solving problems through technology while balancing academics, projects, and extracurriculars, and I’m looking forward to applying my skills as a software developer.
